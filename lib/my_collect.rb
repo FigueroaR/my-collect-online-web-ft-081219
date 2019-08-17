@@ -1,4 +1,6 @@
 def my_collect(names)
-  collection 
+  i = 0 
+  collection = []
+  
 end
 
