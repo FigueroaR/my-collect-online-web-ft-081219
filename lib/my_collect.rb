@@ -1,6 +1,4 @@
-array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
-def my_collect
-my_collect(array) do |name|
-  name.split(" ").first
+def my_collect(names)
+  collection 
 end
 
